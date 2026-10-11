@@ -1,0 +1,5 @@
+soil,theta_wp,theta_fc,theta_sat,drain_k_per_h,infil_cap_mm_h
+sandy_loam,0.1,0.22,0.43,0.02,30.0
+loam,0.12,0.27,0.46,0.01,15.0
+clay_loam,0.17,0.33,0.5,0.004,6.0
+sand,0.05,0.12,0.4,0.05,50.0

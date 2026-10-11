@@ -1,0 +1,4 @@
+crop,root_depth_m,p_depletion,target_low_frac_of_TAW,target_high_frac_of_TAW,kc_ini,kc_mid,kc_end,len_ini_d,len_dev_d,len_mid_d
+tomato,0.5,0.4,0.6,0.9,0.6,1.15,0.8,25,30,40
+maize,0.8,0.55,0.55,0.9,0.3,1.2,0.6,20,35,40
+wheat,0.7,0.55,0.5,0.9,0.4,1.15,0.3,20,30,40

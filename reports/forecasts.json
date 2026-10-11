@@ -1,0 +1,92 @@
+[
+  {
+    "model": "persistence",
+    "horizon": 1,
+    "mae": 0.00457,
+    "rmse": 0.0058,
+    "r2": 0.98
+  },
+  {
+    "model": "linear_regression",
+    "horizon": 1,
+    "mae": 0.00352,
+    "rmse": 0.00454,
+    "r2": 0.9877
+  },
+  {
+    "model": "lstm",
+    "horizon": 1,
+    "mae": 0.00399,
+    "rmse": 0.0051,
+    "r2": 0.9845,
+    "mae_vs_true": 0.0023
+  },
+  {
+    "model": "cnn_lstm",
+    "horizon": 1,
+    "mae": 0.00381,
+    "rmse": 0.00494,
+    "r2": 0.9855,
+    "mae_vs_true": 0.00204
+  },
+  {
+    "model": "persistence",
+    "horizon": 3,
+    "mae": 0.00496,
+    "rmse": 0.00664,
+    "r2": 0.9738
+  },
+  {
+    "model": "linear_regression",
+    "horizon": 3,
+    "mae": 0.00393,
+    "rmse": 0.00552,
+    "r2": 0.9819
+  },
+  {
+    "model": "lstm",
+    "horizon": 3,
+    "mae": 0.00438,
+    "rmse": 0.00613,
+    "r2": 0.9776,
+    "mae_vs_true": 0.0028
+  },
+  {
+    "model": "cnn_lstm",
+    "horizon": 3,
+    "mae": 0.0041,
+    "rmse": 0.00567,
+    "r2": 0.9809,
+    "mae_vs_true": 0.00236
+  },
+  {
+    "model": "persistence",
+    "horizon": 6,
+    "mae": 0.00562,
+    "rmse": 0.00803,
+    "r2": 0.9617
+  },
+  {
+    "model": "linear_regression",
+    "horizon": 6,
+    "mae": 0.00463,
+    "rmse": 0.00689,
+    "r2": 0.9718
+  },
+  {
+    "model": "lstm",
+    "horizon": 6,
+    "mae": 0.00496,
+    "rmse": 0.00728,
+    "r2": 0.9685,
+    "mae_vs_true": 0.00361
+  },
+  {
+    "model": "cnn_lstm",
+    "horizon": 6,
+    "mae": 0.00484,
+    "rmse": 0.00708,
+    "r2": 0.9702,
+    "mae_vs_true": 0.00331
+  }
+]

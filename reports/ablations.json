@@ -1,0 +1,94 @@
+{
+  "per_farm": [
+    {
+      "policy": "full",
+      "water_used_mm": 25.0,
+      "time_below_target": 0.0,
+      "stress_area_mmh": 0.0,
+      "runoff_mm": 0.0,
+      "drainage_mm": 11.5,
+      "n_irrigation_events": 4,
+      "final_theta": 0.2095
+    },
+    {
+      "policy": "no_uncertainty",
+      "water_used_mm": 25.0,
+      "time_below_target": 0.0,
+      "stress_area_mmh": 0.0,
+      "runoff_mm": 0.0,
+      "drainage_mm": 11.5,
+      "n_irrigation_events": 4,
+      "final_theta": 0.2095
+    },
+    {
+      "policy": "no_counterfactual",
+      "water_used_mm": 94.2,
+      "time_below_target": 0.0,
+      "stress_area_mmh": 0.0,
+      "runoff_mm": 0.0,
+      "drainage_mm": 68.6,
+      "n_irrigation_events": 17,
+      "final_theta": 0.2337
+    },
+    {
+      "policy": "no_fault_detection",
+      "water_used_mm": 25.0,
+      "time_below_target": 0.0,
+      "stress_area_mmh": 0.0,
+      "runoff_mm": 0.0,
+      "drainage_mm": 11.5,
+      "n_irrigation_events": 4,
+      "final_theta": 0.2095
+    }
+  ],
+  "aggregate": [
+    {
+      "policy": "full",
+      "water_used_mm_mean": 25.0,
+      "water_used_mm_std": 0.0,
+      "relative_water_to_threshold": 25.0,
+      "time_below_target_mean": 0.0,
+      "stress_area_mmh_mean": 0.0,
+      "runoff_mm_mean": 0.0,
+      "drainage_mm_mean": 11.5,
+      "irrigation_events_mean": 4.0,
+      "n_farms": 1
+    },
+    {
+      "policy": "no_counterfactual",
+      "water_used_mm_mean": 94.2,
+      "water_used_mm_std": 0.0,
+      "relative_water_to_threshold": 94.2,
+      "time_below_target_mean": 0.0,
+      "stress_area_mmh_mean": 0.0,
+      "runoff_mm_mean": 0.0,
+      "drainage_mm_mean": 68.6,
+      "irrigation_events_mean": 17.0,
+      "n_farms": 1
+    },
+    {
+      "policy": "no_fault_detection",
+      "water_used_mm_mean": 25.0,
+      "water_used_mm_std": 0.0,
+      "relative_water_to_threshold": 25.0,
+      "time_below_target_mean": 0.0,
+      "stress_area_mmh_mean": 0.0,
+      "runoff_mm_mean": 0.0,
+      "drainage_mm_mean": 11.5,
+      "irrigation_events_mean": 4.0,
+      "n_farms": 1
+    },
+    {
+      "policy": "no_uncertainty",
+      "water_used_mm_mean": 25.0,
+      "water_used_mm_std": 0.0,
+      "relative_water_to_threshold": 25.0,
+      "time_below_target_mean": 0.0,
+      "stress_area_mmh_mean": 0.0,
+      "runoff_mm_mean": 0.0,
+      "drainage_mm_mean": 11.5,
+      "irrigation_events_mean": 4.0,
+      "n_farms": 1
+    }
+  ]
+}

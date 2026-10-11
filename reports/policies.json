@@ -1,0 +1,330 @@
+{
+  "per_farm": [
+    [
+      {
+        "policy": "fixed_threshold",
+        "water_used_mm": 18.5,
+        "time_below_target": 0.0393,
+        "stress_area_mmh": 24.9,
+        "runoff_mm": 0.0,
+        "drainage_mm": 4.5,
+        "n_irrigation_events": 1,
+        "final_theta": 0.2106
+      },
+      {
+        "policy": "forecast_rule",
+        "water_used_mm": 94.2,
+        "time_below_target": 0.0,
+        "stress_area_mmh": 0.0,
+        "runoff_mm": 0.0,
+        "drainage_mm": 68.6,
+        "n_irrigation_events": 17,
+        "final_theta": 0.2337
+      },
+      {
+        "policy": "full_system_counterfactual",
+        "water_used_mm": 25.0,
+        "time_below_target": 0.0,
+        "stress_area_mmh": 0.0,
+        "runoff_mm": 0.0,
+        "drainage_mm": 11.5,
+        "n_irrigation_events": 4,
+        "final_theta": 0.2095
+      }
+    ],
+    [
+      {
+        "policy": "fixed_threshold",
+        "water_used_mm": 0.0,
+        "time_below_target": 0.9169,
+        "stress_area_mmh": 3607.7,
+        "runoff_mm": 0.0,
+        "drainage_mm": 0.0,
+        "n_irrigation_events": 0,
+        "final_theta": 0.1647
+      },
+      {
+        "policy": "forecast_rule",
+        "water_used_mm": 189.0,
+        "time_below_target": 0.0162,
+        "stress_area_mmh": 2.8,
+        "runoff_mm": 0.0,
+        "drainage_mm": 127.1,
+        "n_irrigation_events": 18,
+        "final_theta": 0.2395
+      },
+      {
+        "policy": "full_system_counterfactual",
+        "water_used_mm": 18.0,
+        "time_below_target": 0.3811,
+        "stress_area_mmh": 1748.1,
+        "runoff_mm": 0.0,
+        "drainage_mm": 0.0,
+        "n_irrigation_events": 1,
+        "final_theta": 0.1865
+      }
+    ],
+    [
+      {
+        "policy": "fixed_threshold",
+        "water_used_mm": 0.0,
+        "time_below_target": 0.0,
+        "stress_area_mmh": 0.0,
+        "runoff_mm": 0.0,
+        "drainage_mm": 0.0,
+        "n_irrigation_events": 0,
+        "final_theta": 0.1974
+      },
+      {
+        "policy": "forecast_rule",
+        "water_used_mm": 276.8,
+        "time_below_target": 0.0,
+        "stress_area_mmh": 0.0,
+        "runoff_mm": 0.0,
+        "drainage_mm": 231.0,
+        "n_irrigation_events": 18,
+        "final_theta": 0.2628
+      },
+      {
+        "policy": "full_system_counterfactual",
+        "water_used_mm": 0.0,
+        "time_below_target": 0.0,
+        "stress_area_mmh": 0.0,
+        "runoff_mm": 0.0,
+        "drainage_mm": 0.0,
+        "n_irrigation_events": 0,
+        "final_theta": 0.1974
+      }
+    ],
+    [
+      {
+        "policy": "fixed_threshold",
+        "water_used_mm": 49.3,
+        "time_below_target": 0.7321,
+        "stress_area_mmh": 4716.1,
+        "runoff_mm": 19.3,
+        "drainage_mm": 0.0,
+        "n_irrigation_events": 2,
+        "final_theta": 0.1774
+      },
+      {
+        "policy": "forecast_rule",
+        "water_used_mm": 217.1,
+        "time_below_target": 0.0,
+        "stress_area_mmh": 0.0,
+        "runoff_mm": 16.6,
+        "drainage_mm": 83.3,
+        "n_irrigation_events": 16,
+        "final_theta": 0.3207
+      },
+      {
+        "policy": "full_system_counterfactual",
+        "water_used_mm": 35.0,
+        "time_below_target": 0.5727,
+        "stress_area_mmh": 3126.9,
+        "runoff_mm": 0.0,
+        "drainage_mm": 0.0,
+        "n_irrigation_events": 5,
+        "final_theta": 0.1767
+      }
+    ],
+    [
+      {
+        "policy": "fixed_threshold",
+        "water_used_mm": 50.0,
+        "time_below_target": 0.7714,
+        "stress_area_mmh": 2302.3,
+        "runoff_mm": 20.0,
+        "drainage_mm": 0.0,
+        "n_irrigation_events": 2,
+        "final_theta": 0.1892
+      },
+      {
+        "policy": "forecast_rule",
+        "water_used_mm": 360.6,
+        "time_below_target": 0.0716,
+        "stress_area_mmh": 141.9,
+        "runoff_mm": 135.6,
+        "drainage_mm": 86.5,
+        "n_irrigation_events": 15,
+        "final_theta": 0.3245
+      },
+      {
+        "policy": "full_system_counterfactual",
+        "water_used_mm": 25.0,
+        "time_below_target": 0.8822,
+        "stress_area_mmh": 4024.2,
+        "runoff_mm": 0.0,
+        "drainage_mm": 0.0,
+        "n_irrigation_events": 3,
+        "final_theta": 0.184
+      }
+    ],
+    [
+      {
+        "policy": "fixed_threshold",
+        "water_used_mm": 0.0,
+        "time_below_target": 0.0,
+        "stress_area_mmh": 0.0,
+        "runoff_mm": 6.2,
+        "drainage_mm": 0.0,
+        "n_irrigation_events": 0,
+        "final_theta": 0.2412
+      },
+      {
+        "policy": "forecast_rule",
+        "water_used_mm": 235.0,
+        "time_below_target": 0.0,
+        "stress_area_mmh": 0.0,
+        "runoff_mm": 54.6,
+        "drainage_mm": 128.0,
+        "n_irrigation_events": 18,
+        "final_theta": 0.3248
+      },
+      {
+        "policy": "full_system_counterfactual",
+        "water_used_mm": 0.0,
+        "time_below_target": 0.0,
+        "stress_area_mmh": 0.0,
+        "runoff_mm": 6.2,
+        "drainage_mm": 0.0,
+        "n_irrigation_events": 0,
+        "final_theta": 0.2412
+      }
+    ],
+    [
+      {
+        "policy": "fixed_threshold",
+        "water_used_mm": 225.0,
+        "time_below_target": 0.8753,
+        "stress_area_mmh": 2125.4,
+        "runoff_mm": 171.0,
+        "drainage_mm": 0.0,
+        "n_irrigation_events": 9,
+        "final_theta": 0.2488
+      },
+      {
+        "policy": "forecast_rule",
+        "water_used_mm": 253.4,
+        "time_below_target": 0.4111,
+        "stress_area_mmh": 543.4,
+        "runoff_mm": 175.4,
+        "drainage_mm": 0.0,
+        "n_irrigation_events": 13,
+        "final_theta": 0.2876
+      },
+      {
+        "policy": "full_system_counterfactual",
+        "water_used_mm": 118.0,
+        "time_below_target": 0.0162,
+        "stress_area_mmh": 14.0,
+        "runoff_mm": 0.0,
+        "drainage_mm": 7.3,
+        "n_irrigation_events": 13,
+        "final_theta": 0.3506
+      }
+    ],
+    [
+      {
+        "policy": "fixed_threshold",
+        "water_used_mm": 0.0,
+        "time_below_target": 0.2448,
+        "stress_area_mmh": 312.0,
+        "runoff_mm": 15.3,
+        "drainage_mm": 0.0,
+        "n_irrigation_events": 0,
+        "final_theta": 0.2536
+      },
+      {
+        "policy": "forecast_rule",
+        "water_used_mm": 362.4,
+        "time_below_target": 0.0,
+        "stress_area_mmh": 0.0,
+        "runoff_mm": 272.9,
+        "drainage_mm": 15.5,
+        "n_irrigation_events": 18,
+        "final_theta": 0.3653
+      },
+      {
+        "policy": "full_system_counterfactual",
+        "water_used_mm": 10.0,
+        "time_below_target": 0.157,
+        "stress_area_mmh": 232.8,
+        "runoff_mm": 15.3,
+        "drainage_mm": 0.0,
+        "n_irrigation_events": 1,
+        "final_theta": 0.2661
+      }
+    ],
+    [
+      {
+        "policy": "fixed_threshold",
+        "water_used_mm": 0.0,
+        "time_below_target": 0.0,
+        "stress_area_mmh": 0.0,
+        "runoff_mm": 8.1,
+        "drainage_mm": 0.0,
+        "n_irrigation_events": 0,
+        "final_theta": 0.2934
+      },
+      {
+        "policy": "forecast_rule",
+        "water_used_mm": 205.9,
+        "time_below_target": 0.0,
+        "stress_area_mmh": 0.0,
+        "runoff_mm": 121.7,
+        "drainage_mm": 32.9,
+        "n_irrigation_events": 18,
+        "final_theta": 0.3783
+      },
+      {
+        "policy": "full_system_counterfactual",
+        "water_used_mm": 0.0,
+        "time_below_target": 0.0,
+        "stress_area_mmh": 0.0,
+        "runoff_mm": 8.1,
+        "drainage_mm": 0.0,
+        "n_irrigation_events": 0,
+        "final_theta": 0.2934
+      }
+    ]
+  ],
+  "aggregate": [
+    {
+      "policy": "fixed_threshold",
+      "water_used_mm_mean": 38.1,
+      "water_used_mm_std": 69.0,
+      "relative_water_to_threshold": 1.0,
+      "time_below_target_mean": 0.3978,
+      "stress_area_mmh_mean": 1454.3,
+      "runoff_mm_mean": 26.7,
+      "drainage_mm_mean": 0.5,
+      "irrigation_events_mean": 1.6,
+      "n_farms": 9
+    },
+    {
+      "policy": "forecast_rule",
+      "water_used_mm_mean": 243.8,
+      "water_used_mm_std": 79.2,
+      "relative_water_to_threshold": 6.401,
+      "time_below_target_mean": 0.0554,
+      "stress_area_mmh_mean": 76.5,
+      "runoff_mm_mean": 86.3,
+      "drainage_mm_mean": 85.9,
+      "irrigation_events_mean": 16.8,
+      "n_farms": 9
+    },
+    {
+      "policy": "full_system_counterfactual",
+      "water_used_mm_mean": 25.7,
+      "water_used_mm_std": 34.8,
+      "relative_water_to_threshold": 0.674,
+      "time_below_target_mean": 0.2232,
+      "stress_area_mmh_mean": 1016.2,
+      "runoff_mm_mean": 3.3,
+      "drainage_mm_mean": 2.1,
+      "irrigation_events_mean": 3.0,
+      "n_farms": 9
+    }
+  ]
+}

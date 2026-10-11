@@ -1,0 +1,10 @@
+{
+  "coverage": 0.8704,
+  "target_coverage": 0.9,
+  "interval_width": 0.02328,
+  "mae": 0.00505,
+  "calibrated": true,
+  "horizon": 6,
+  "mean_std": 0.00187,
+  "ensemble_size": 5
+}

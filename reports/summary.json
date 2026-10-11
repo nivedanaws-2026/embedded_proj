@@ -1,0 +1,15 @@
+{
+  "quick": false,
+  "seed": 42,
+  "elapsed_s": 180.8,
+  "config": {
+    "history": 24,
+    "horizons": [
+      1,
+      3,
+      6
+    ],
+    "epochs": 30,
+    "ensemble_size": 5
+  }
+}
